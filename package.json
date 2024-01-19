@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "name": "backend_pub",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Kontra123/pub_backend.git",
+  "author": "amir-brightsource <amir@brightsource.com>",
+  "license": "MIT"
+}
